@@ -8,8 +8,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Ankit Johri </span>
-            from <span className="purple"> Lucknow, India.</span>
+            Hi, I am <span className="purple">Ankit Johri</span> from<span className="purple"> Lucknow, India.</span>
             <br /> I am a final year student pursuing an B.Tech
             in Computer Science & Engineering at Amity University.
             <br />
